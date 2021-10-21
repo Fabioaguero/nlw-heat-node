@@ -1,3 +1,3 @@
 # nlw-heat-node
 
--aula 1 = 52:19
+-aula 1 = 1:36:36
